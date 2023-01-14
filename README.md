@@ -15,8 +15,8 @@ Install the MCForecastTools.py file in the same directory that you store the fin
 
 You will need to create a .env file and enter the following credentials in it to be able to retreive data from Alpaca:
 
-* ALPACA_API_KEY = "<enter your value here>
+* ALPACA_API_KEY = "(enter your value here without the parentheses)"
 
-* ALPACA_SECRET_KEY = "<enter your value here>"
+* ALPACA_SECRET_KEY = "(enter your value here without the parentheses)"
 
 The ipynb file was run using VC Code version 1.74.2.
