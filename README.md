@@ -13,4 +13,10 @@ Two financial analysis tools were created using a single Jupyter notebook the pe
 
 Install the MCForecastTools.py file in the same directory that you store the financial_planning_tools.ipynb file before trying to execute. 
 
+You will need to create a .env file and enter the following credentials in it to be able to retreive data from Alpaca:
+
+* ALPACA_API_KEY = "<enter your value here>
+
+* ALPACA_SECRET_KEY = "<enter your value here>"
+
 The ipynb file was run using VC Code version 1.74.2.
